@@ -1,0 +1,380 @@
+{
+  "1": [
+    {
+      "NodeID":1,
+      "NodeVolume": 328,
+      "NodeFeederCount": 3,
+      "Borders": [
+        {
+          "WaterBorder": 0.5,
+          "GovernmentBorder": 0.25,
+          "GreenSpaceBorder": 0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.25
+        }
+      ],
+      "LevelOneConnections":[2,4,21]
+    }
+  ],
+  "2": [
+    {
+      "NodeID":2,
+      "NodeVolume": 2090,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.5,
+          "GovernmentBorder": 0.25,
+          "GreenSpaceBorder": 0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.25
+        }
+      ],
+      "LevelOneConnections":[1,6]
+    }
+  ],
+  "3": [
+    {
+      "NodeID":3,
+      "NodeVolume": 1181,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.5,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.5
+        }
+      ],
+      "LevelOneConnections":[4,20]
+    }
+  ],
+  "4": [
+    {
+      "NodeID":4,
+      "NodeVolume": 1892,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.25,
+          "GreenSpaceBorder": 0.5,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.25
+        }
+      ],
+      "LevelOneConnections":[1,3,5,6]
+    }
+  ],
+  "5": [
+    {
+      "NodeID":5,
+      "NodeVolume": 1562,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.5,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.5
+        }
+      ],
+      "LevelOneConnections":[4,7,20]
+    }
+  ],
+  "6": [
+    {
+      "NodeID":6,
+      "NodeVolume": 5218,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.25,
+          "GreenSpaceBorder": 0.25,
+          "TransportationBorder":0.25,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.25
+        }
+      ],
+      "LevelOneConnections":[2,4,7,8]
+    }
+  ],
+  "7": [
+    {
+      "NodeID":7,
+      "NodeVolume": 2690,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.25,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.75
+        }
+      ],
+      "LevelOneConnections":[5,6,9]
+    }
+  ],
+  "8": [
+    {
+      "NodeID":8,
+      "NodeVolume": 2743,
+      "NodeFeederCount": 3,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.33,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.67
+        }
+      ],
+      "LevelOneConnections":[6,9,10]
+    }
+  ],
+  "9": [
+    {
+      "NodeID":9,
+      "NodeVolume": 1752,
+      "NodeFeederCount": 6,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.33,
+          "MixedUseBorder":0.67
+        }
+      ],
+      "LevelOneConnections":[7,8,13,14]
+    }
+  ],
+  "10": [
+    {
+      "NodeID":10,
+      "NodeVolume": 721,
+      "NodeFeederCount": 3,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.33,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.67
+        }
+      ],
+      "LevelOneConnections":[8,11]
+    }
+  ],
+  "11": [
+    {
+      "NodeID":11,
+      "NodeVolume": 410,
+      "NodeFeederCount": 3,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.33,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.67
+        }
+      ],
+      "LevelOneConnections":[10,12]
+    }
+  ],
+  "12": [
+    {
+      "NodeID":12,
+      "NodeVolume": 35,
+      "NodeFeederCount": 5,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.25,
+          "InfrastructureBorder":0.5,
+          "MixedUseBorder":0.25
+        }
+      ],
+      "LevelOneConnections":[11,13]
+    }
+  ],
+  "13": [
+    {
+      "NodeID":13,
+      "NodeVolume": 148,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.5,
+          "MixedUseBorder":0.5
+        }
+      ],
+      "LevelOneConnections":[9,12,14,15]
+    }
+  ],
+  "14": [
+    {
+      "NodeID":14,
+      "NodeVolume": 230,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.25,
+          "MixedUseBorder":0.75
+        }
+      ],
+      "LevelOneConnections":[9,13,16]
+    }
+  ],
+  "15": [
+    {
+      "NodeID":15,
+      "NodeVolume": 1,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":1.0,
+          "MixedUseBorder":0.0
+        }
+      ],
+      "LevelOneConnections":[13,16]
+    }
+  ],
+  "16": [
+    {
+      "NodeID":16,
+      "NodeVolume": 7,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":1.0,
+          "MixedUseBorder":0.0
+        }
+      ],
+      "LevelOneConnections":[14,15]
+    }
+  ],
+  "17": [
+    {
+      "NodeID":17,
+      "NodeVolume": 45,
+      "NodeFeederCount": 3,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.33,
+          "MixedUseBorder":0.67
+        }
+      ],
+      "LevelOneConnections":[18]
+    }
+  ],
+  "18": [
+    {
+      "NodeID":18,
+      "NodeVolume": 159,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.25,
+          "InfrastructureBorder":0.25,
+          "MixedUseBorder":0.5
+        }
+      ],
+      "LevelOneConnections":[17,19]
+    }
+  ],
+  "19": [
+    {
+      "NodeID":19,
+      "NodeVolume": 141,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.25,
+          "MixedUseBorder":0.75
+        }
+      ],
+      "LevelOneConnections":[18]
+    }
+  ],
+  "20": [
+    {
+      "NodeID":20,
+      "NodeVolume": 806,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.5,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":0.5
+        }
+      ],
+      "LevelOneConnections":[3,5]
+    }
+  ],
+  "21": [
+    {
+      "NodeID":21,
+      "NodeVolume": 701,
+      "NodeFeederCount": 4,
+      "Borders": [
+        {
+          "WaterBorder": 0.0,
+          "GovernmentBorder": 0.0,
+          "GreenSpaceBorder": 0.0,
+          "TransportationBorder":0.0,
+          "InfrastructureBorder":0.0,
+          "MixedUseBorder":1.0
+        }
+      ],
+      "LevelOneConnections":[1]
+    }
+  ]
+}
